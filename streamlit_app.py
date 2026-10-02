@@ -133,4 +133,4 @@ if st.button("Calc", type="primary"):
     if income-cost>0: st.balloons(); st.success(f"PROFIT R{income-cost}")
     else: st.error(f"LOSS R{income-cost}")
 
-st.caption(f"AgriPro Mzansi | {farming_type} Mode | {town} | 16yo Founder Magudu"
+st.caption(f"AgriPro Mzansi | {farming_type} Mode | {town} | 16yo Founder Magudu")
